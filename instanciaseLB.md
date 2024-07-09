@@ -2,7 +2,7 @@
 
 ## Criando uma template
 1. Em EC2, em Modelo de execução, clique em Criar modelo de execução.
-2. Faça a configuraçao da sua instancia conforme as configurações desejadas e em detalhes avançados, no campo user data, adicione os dados do user_data.sh
+2. Faça a configuraçao da sua instancia conforme as configurações desejadas e em detalhes avançados, no campo user data, adicione os dados do [user_data.sh](user_data.sh)
 
 ## Criando um Target Group
 1. Em EC2, em grupos de destino, clique em Criar grupo de destino.
