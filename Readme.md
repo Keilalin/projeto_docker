@@ -16,8 +16,8 @@
 ______________________________________________
 
 ## Indice
-* [Preparando o ambiente AWS](https://)  Esta seção é um guia básico de como criar uma VPC, Security Groups, EFS, RDS.
+* [Preparando o ambiente AWS](ambienteaws.md)  Esta seção é um guia básico de como criar uma VPC, Security Groups, EFS, RDS.
 
-* [Configurando o Template e criando o Load Balancer](http://) Esta seção é onde estão as informações sobre as instancias EC2 e o Load Balancer.
+* [Configurando o Template e criando o Load Balancer](instanciaseLB.md) Esta seção é onde estão as informações sobre as instancias EC2 e o Load Balancer.
 
-* [Configurando o Auto Scaling](http://) Esta seção é sobre como criar e configurar um Auto Scaling.
+* [Configurando o Auto Scaling](autoscaling.md) Esta seção é sobre como criar e configurar um Auto Scaling.
