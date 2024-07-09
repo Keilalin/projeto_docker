@@ -13,6 +13,9 @@
 
 5 - Configuração do serviço de Load Balancer AWS para aplicação WordPress.
 
+## Topologia da Atividade
+![](topologia.png)
+
 ______________________________________________
 
 ## Indice
