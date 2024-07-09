@@ -3,10 +3,10 @@
 ## Criando uma VPC
 1. Acessar a console da AWS
 2. Em VPC, criar VPC, selecione VPC e muito mais, defina nome para sua VPC e as outras configurações necessárias para o seu ambiente de desenvolvimento. 
-Para essa atividade utilizaremos os parametros a seguir:
+Para essa atividade utilizaremos os parâmetros a seguir:
   * Zonas de Disponibilidade = 2
-  * Numero de sub-redes públicas = 2
-  * Numero de sub-redes privadas = 2
+  * Número de sub-redes públicas = 2
+  * Número de sub-redes privadas = 2
   * Nat Gateway = em 1 AZ
   * Endpoints da VPC = nenhuma
   * Opções de DNS = Habilitar nomes de host DNS/Habilitar resolução de DNS
