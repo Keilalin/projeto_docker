@@ -45,4 +45,3 @@ EOL
 sudo chown -R ec2-user:ec2-user /docker
 sudo docker-compose -f /docker/docker-compose.yml up -d
 sudo yum install mariadb-server -y
-mysql -h <Endpoint do RDS > -u < usuario > -p<senha> -e "CREATE DATABASE <nome da database>;"
